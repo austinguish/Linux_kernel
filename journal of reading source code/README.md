@@ -1,1 +1,1 @@
-# This folder records my journal or report on review the Linux source code. 
+# This folder records my journal or report on reading the Linux source code. 
